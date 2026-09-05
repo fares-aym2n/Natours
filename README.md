@@ -92,7 +92,7 @@ This project was implemented following Jonas Schmedtmann's Node.js Bootcamp and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/fares-ayman100/Natours.git
+git clone https://github.com/fares-aym2n/Natours.git
 cd Natours
 ```
 
